@@ -38,7 +38,7 @@ function startCountdown() {
 }       
 
 yesBtn.addEventListener("click", ()=> {
-    question.innerHTML = "Yayyy Mwahhhhh I Love Youuuuuuu";
+    question.innerHTML = "Yayyy Rawrrrrrrrrrr &#129430;";
     gif.src="https://media.tenor.com/Rh2GZjVhteYAAAAi/tonton-friends-tonton.gif"
 
     setTimeout(() => {
