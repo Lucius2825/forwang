@@ -43,7 +43,7 @@ yesBtn.addEventListener("click", ()=> {
 
     setTimeout(() => {
         startCountdown();
-    }, 3000);
+    }, 2000);
 });
 
 noBtn.addEventListener('mouseover', ()=> {
